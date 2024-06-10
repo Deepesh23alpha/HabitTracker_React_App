@@ -24,7 +24,6 @@ To run this project on your system follow the following steps:
 - Reactjs.
 - Redux toolkit.
 - React-router-dom.
-- React-toastify.
 - JavaScript
 - HTML.
 - CSS.
