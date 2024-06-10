@@ -4,9 +4,9 @@ This is a habit tracker project of Coding Ninjas made using Reactjs, Redux toolk
 
 ## Features:
 
-- Add Multiple habits to your habit list.
+- Add multiple habits to your habit list.
 - See your daily/weekly status of habits.
-- Change the status of habit for a particular day in past week.
+- Change the status of habit.
 - Responsive, so work on all type of screens.
 
 ## Installation & Run:
